@@ -1,0 +1,25 @@
+/********************/
+/* GENERAL SETTINGS */
+/********************/
+#timerbox {
+    right: 0;
+    padding: 2em;
+    background-color: Green;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    display: none;
+    z-index:1;
+}
+
+#quiz-form {
+    display: none;
+}
+.orange {
+    background-color: #ffa81f !important;
+}
+
+.red {
+    background-color: Red !important;
+}
+
