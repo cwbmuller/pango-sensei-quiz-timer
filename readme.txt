@@ -6,7 +6,7 @@ License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Requires at least: 3.5
 Tested up to: 4.5
-Stable tag: 1.0
+Stable tag: 1.2.1
 
 Add timer to Sensei Quizzes
 
@@ -42,4 +42,7 @@ Add an options timer to Sensei Quizzes.
 = v1.0 =
 - Initial Revision
 
-
+= v1.2.1 =
+- Updated for Sensei 1.9
+- Improved JS
+- Improved styling

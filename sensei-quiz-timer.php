@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name: Pango Sensei Quiz Timer
- * Version: 1.2.0
+ * Version: 1.2.1
  * Plugin URI: http://pango.world
  * Description: Add a timer to your Sensei Quizzes
  * Author: Pango

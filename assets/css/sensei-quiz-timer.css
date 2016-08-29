@@ -15,11 +15,11 @@
 #quiz-form {
     display: none;
 }
-.orange {
+#timerbox.orange {
     background-color: #ffa81f !important;
 }
 
-.red {
+#timerbox.red {
     background-color: Red !important;
 }
 
